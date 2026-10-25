@@ -13,16 +13,16 @@
 
 ---
 
-### 🛡️ STATS & ATTRIBUTES
+### 🛡️ DEV ATTRIBUTES & SKILL HEX
 
-| Attribute | Level / Rating | Details |
+| Attribute | Level / Rating | Focus Area & Tech Stack |
 | :--- | :---: | :--- |
-| **Java / Spring Boot** | `██████████` | 95% (Backend Core, APIs, Fintech Systems)[cite: 1] |
-| **Angular / TypeScript** | `█████████░` | 90% (Frontend UI/UX, CRMs, SPA Migration)[cite: 1] |
-| **Node.js / Express** | `████████░░` | 80% (Services & Automation)[cite: 1] |
-| **Database & SQL** | `█████████░` | 90% (PostgreSQL, MySQL, Query Tuning)[cite: 1] |
-| **DevOps & Cloud** | `███████░░░` | 75% (Docker, AWS S3/Textract, CI/CD)[cite: 1] |
-| **AI & Tooling** | `██████████` | 95% (Claude Code, Ollama, Local LLMs)[cite: 1, 2] |
+| **Backend Architecture** | `██████████` | Java (Spring Boot), RESTful APIs, Fintech Systems[cite: 1] |
+| **Frontend Craft** | `█████████░` | Angular (v2 to 20), TypeScript, SPA Migration[cite: 1] |
+| **Problem Solving** | `██████████` | Production Incident Ownership, Root-Cause Analysis[cite: 1] |
+| **Automation & AI** | `██████████` | AWS Textract OCR, Claude Code Workflows, CI/CD[cite: 1] |
+| **Security & Compliance** | `█████████░` | MFA (OTP/TOTP), Financial Security Standards[cite: 1] |
+| **Developer Experience** | `██████████` | Onboarding Documentation, Team Coding Standards[cite: 1] |
 
 ---
 
@@ -44,20 +44,11 @@
 
 ---
 
-### 📊 METRICS & ATTRIBUTES
-
-<p align="center">
-  <img src="metrics.svg" width="100%" />
-</p>
-
-
----
-
 <div align="center">
 
 ### ⚡ QUICK PORTS / CONTACT
 
-[![Email](https://img.shields.io/badge/Email-arhur.hsiao0629@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:arthur.hsiao0629@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arthur.hsiao0629@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:arthur.hsiao0629@gmail.com)
 
 *Press any key or drop a message to connect!* 🕹️
 
