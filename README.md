@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CLASS-Senior_Full_Stack_Wizard-blueviolet?style=for-the-badge&logo=codeproject&logoColor=white" />
-  <img src="https://img.shields.io/badge/GUILD-Attvest_Finance-blue?style=for-the-badge&logo=bank&logoColor=white" />
   <img src="https://img.shields.io/badge/SERVER-Brisbane_AU-success?style=for-the-badge&logo=openstreetmap&logoColor=white" />
   <img src="https://img.shields.io/badge/LEVEL-6_Years_Exp-orange?style=for-the-badge&logo=reactivex&logoColor=white" />
 </p>
