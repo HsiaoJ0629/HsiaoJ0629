@@ -44,11 +44,10 @@
 
 ---
 
-### 📊 PLAYER ACHIEVEMENTS (GitHub Stats)
+### 📊 METRICS & ATTRIBUTES
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HsiaoJ0629&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HsiaoJ0629&layout=compact&theme=tokyonight&hide_border=false" width="48%" height="195px" />
+  <img src="metrics.svg" width="100%" />
 </p>
 
 
