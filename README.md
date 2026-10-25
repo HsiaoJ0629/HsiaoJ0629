@@ -47,13 +47,10 @@
 ### 📊 PLAYER ACHIEVEMENTS (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HsiaoJ0629&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HsiaoJ0629&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HsiaoJ0629&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HsiaoJ0629&layout=compact&theme=tokyonight&hide_border=false" width="48%" height="195px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/streak-stats/?username=HsiaoJ0629&theme=tokyonight&hide_border=false" width="100%" />
-</p>
 
 ---
 
